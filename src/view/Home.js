@@ -59,7 +59,7 @@ export default function Home() {
           <h5 className="text-secondary font-17">Most sought-after projects in Bangalore</h5>
         </div>
         <div className="col-sm-6 text-sm-right">
-        <Link className='btn bg-gradient text-white text-uppercase rounded-pill' to="/create" query={{ type: 'trending' }}>+ add new project</Link>
+        <Link className='btn bg-gradient text-white text-uppercase rounded-pill' to="/create">+ add new project</Link>
         </div>
       </div>
       <div className="row">

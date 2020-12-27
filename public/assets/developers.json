@@ -35,17 +35,6 @@
       "id": 7
     },
     {
-      "logo": "",
-      "developer": "New Ranchi Dev",
-      "totalExp": "20",
-      "totalProjects": "12",
-      "desc": "New Ranchi New Rnchi",
-      "title": "SQL",
-      "location": "Kolkata",
-      "imgURL": "",
-      "id": 17
-    },
-    {
       "logo": "http://www.jainheights.com/gocart/themes/jainheights/assets/images/ban02.jpg",
       "developer": "Test Dev",
       "totalExp": "200",
@@ -69,17 +58,6 @@
     },
     {
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
-      "developer": "Buddha Heights 1000",
-      "totalExp": "15",
-      "totalProjects": "1000",
-      "desc": "New Post 1000 New Post 1000 New Post 1000 New Post 1000",
-      "title": "New Check 456",
-      "location": "",
-      "imgURL": "",
-      "id": 24
-    },
-    {
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
       "developer": "",
       "totalExp": "13",
       "totalProjects": "13",
@@ -91,14 +69,14 @@
     },
     {
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
-      "developer": "Dev Zero",
-      "totalExp": "2",
-      "totalProjects": "3",
-      "desc": "Dev Zero Dev ZeroDev ZeroDev ZeroDev ZeroDev ZeroDev ZeroDev ZeroDev Zero",
-      "title": "Dev Zero",
-      "location": "Bangalore",
-      "imgURL": "",
-      "id": 26
+      "developer": "",
+      "totalExp": "11",
+      "totalProjects": "12",
+      "desc": "Dev Zero Dev Zero Dev Zero Dev Zero Dev Zero",
+      "title": "Dev Zero One",
+      "location": "Jallahali,Bangalore",
+      "imgURL": "https://is1-2.housingcdn.com/4f2250e8/5dd8ed6c0ce7cc009f60645d5e215574/v5/fs/concorde_tech_turf-electronics_city_phase_1-bengaluru-concorde_housing_corporation_pvt._ltd..jpg",
+      "id": 27
     }
   ]
 }
