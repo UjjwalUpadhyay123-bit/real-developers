@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "logo": "https://www.prestigeconstructions.com/wp-content/uploads/2017/08/prestige-group-logo.png",
+      "imgURL": "https://www.prestigeconstructions.com/wp-content/uploads/prestige-misty-waters-vista-towers-exterior-view-1170x600.jpg",
+      "imgTitle": "Prestige Misty Waters",
+      "title": "Prestige Estates Projects",
+      "totalExp": "32",
+      "totalProjects": "241",
+      "desc": "Prestige Group is a prominent real-estate developer in india with 32 years of rich experience .It established itself as one of the leading and most successful developers of real estate in India by imprinting its indelible mark across all asset classes.",
+      "location": "Bangalore,Nagavara",
+      "id": 1
+    },
+    {
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
+      "imgURL": "https://is1-2.housingcdn.com/4f2250e8/5dd8ed6c0ce7cc009f60645d5e215574/v5/fs/concorde_tech_turf-electronics_city_phase_1-bengaluru-concorde_housing_corporation_pvt._ltd..jpg",
+      "imgTitle": "Concorde Spring Meadows",
+      "title": "Concode Housing ltd",
+      "totalExp": "20",
+      "totalProjects": "24",
+      "desc": "The Concorde Group was set up in 1998 with a vision to create sustainable values for stakeholders and deliver customer delight. In almost 2 decades, the company has developed over 20 million square feet of real estate space, consistently delivering satisfaction to its customers through its innovative offerings and professionalism in every aspect of its dealings. Known for building long-lasting value for its customers, the leadership at Concorde persistently strives towards delivering performance that make a difference. A Concorde homeowner is one who looks for high level quality, aesthetics and future growth. We deliver this with trust, transparency, and fairness. Your search for a good home ends here.",
+      "location": "Jallahali,Bangalore",
+      "id": 2,
+      "developer": "Concode 234"
+    },
+    {
+      "logo": "https://www.prestigeconstructions.com/wp-content/uploads/2017/08/prestige-group-logo.png",
+      "imgURL": "https://www.prestigeconstructions.com/wp-content/uploads/prestige-misty-waters-vista-towers-exterior-view-1170x600.jpg",
+      "imgTitle": "Prestige Misty Waters",
+      "title": "new post 900",
+      "totalExp": "23",
+      "totalProjects": "20",
+      "desc": "Prestige Group ",
+      "location": "Bangalore,Nagavaraa",
+      "id": 7
+    },
+    {
+      "logo": "",
+      "developer": "New Ranchi Dev",
+      "totalExp": "20",
+      "totalProjects": "12",
+      "desc": "New Ranchi New Rnchi",
+      "title": "SQL",
+      "location": "Kolkata",
+      "imgURL": "",
+      "id": 17
+    },
+    {
+      "logo": "http://www.jainheights.com/gocart/themes/jainheights/assets/images/ban02.jpg",
+      "developer": "Test Dev",
+      "totalExp": "200",
+      "totalProjects": "12",
+      "desc": "Prestige Estate UKU1Prestige Estate UKU1 Prestige Estate UKU1 Prestige Estate UKU1",
+      "title": "Prestige Estate UKU1",
+      "location": "Bangalore",
+      "imgURL": "https://is1-2.housingcdn.com/4f2250e8/5dd8ed6c0ce7cc009f60645d5e215574/v5/fs/concorde_tech_turf-electronics_city_phase_1-bengaluru-concorde_housing_corporation_pvt._ltd..jpg",
+      "id": 18
+    },
+    {
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
+      "developer": "New UKU Ris",
+      "totalExp": "",
+      "totalProjects": "",
+      "desc": "",
+      "title": "Senior software engineer",
+      "location": "",
+      "imgURL": "",
+      "id": 22
+    },
+    {
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
+      "developer": "Buddha Heights 1000",
+      "totalExp": "15",
+      "totalProjects": "1000",
+      "desc": "New Post 1000 New Post 1000 New Post 1000 New Post 1000",
+      "title": "New Check 456",
+      "location": "",
+      "imgURL": "",
+      "id": 24
+    },
+    {
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
+      "developer": "",
+      "totalExp": "13",
+      "totalProjects": "13",
+      "desc": "New Post 1000 New Post 1000 New Post 9000 New Post 9000",
+      "title": "New Post 9000",
+      "location": "Kolkata",
+      "imgURL": "",
+      "id": 25
+    },
+    {
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8o8IhAE_pIKlWx6fIBqELxMFj1hE_PlXgTuMx2yQxlSpAbvR",
+      "developer": "Dev Zero",
+      "totalExp": "2",
+      "totalProjects": "3",
+      "desc": "Dev Zero Dev ZeroDev ZeroDev ZeroDev ZeroDev ZeroDev ZeroDev ZeroDev Zero",
+      "title": "Dev Zero",
+      "location": "Bangalore",
+      "imgURL": "",
+      "id": 26
+    }
+  ]
+}

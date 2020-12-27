@@ -1,0 +1,64 @@
+$theme-colors: (
+  "violate": #5e22da,
+  "primary": #4a8fee,
+  "secondary": #656565,
+);
+$enable-gradients: true;
+@import "node_modules/bootstrap/scss/bootstrap";
+body {
+  font-family: "Roboto", sans-serif;
+}
+.bg-gradient {
+  background: #438bed;
+  background: -moz-linear-gradient(-45deg, #438bed 0%, #7749dd 100%);
+  background: -webkit-linear-gradient(-45deg, #438bed 0%, #7749dd 100%);
+  background: linear-gradient(135deg, #438bed 0%, #7749dd 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#438bed', endColorstr='#7749dd',GradientType=1 );
+}
+.bg-black-gradient {
+  background: -moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 100%);
+  background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 100%);
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#000000',GradientType=0 );
+}
+.font-12 {
+  font-size: 0.75rem;
+}
+.font-13 {
+  font-size: 0.813rem;
+}
+.font-14 {
+  font-size: 0.875rem;
+}
+.font-16 {
+  font-size: 1rem;
+}
+.font-17 {
+  font-size: 1.0625rem;
+}
+.font-18 {
+  font-size: 1.2rem;
+}
+.font-20 {
+  font-size: 1.25rem;
+}
+.font-24 {
+  font-size: 1.5rem;
+}
+.font-28 {
+  font-size: 1.75rem;
+}
+.font-34 {
+  font-size: 2.125rem;
+}
+.font-40 {
+  font-size: 2.5rem;
+}
+.font-44 {
+  font-size: 2.75rem;
+}
+.titleText {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}

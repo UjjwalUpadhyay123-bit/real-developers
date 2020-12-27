@@ -1,0 +1,23 @@
+.cardOverLay {
+  background-color: rgba(00, 00, 00, 0.5);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  display: none;
+  .navBtn {
+    width: 125px;
+    .iconBg {
+      width: 27px;
+      height: 27px;
+    }
+  }
+}
+.projectCard {
+  max-height: 200px;
+  overflow-y: auto;
+  &:hover {
+    .cardOverLay {
+      display: flex;
+    }
+  }
+}
